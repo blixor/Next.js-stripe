@@ -1,19 +1,3 @@
-<p align="center">
-  <h3 align="center">
-    nestjs-stripe
-  </h3>
-
-  <p align="center">
-    Injectable Stripe client for your nestjs projects
-  </p>
-
-  <p align="center">
-    <img src="https://circleci.com/gh/dhaspden/nestjs-stripe.svg?style=svg">
-    <a href="https://codecov.io/gh/dhaspden/nestjs-stripe">
-      <img src="https://codecov.io/gh/dhaspden/nestjs-stripe/branch/master/graph/badge.svg" />
-    </a>
-  </p>
-</p>
 
 ## Table Of Contents
 
